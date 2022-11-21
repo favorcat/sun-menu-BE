@@ -1,0 +1,8 @@
+
+*.pyc
+
+qq/db.sqlite3
+
+qq/django.crt
+
+qq/django.key
